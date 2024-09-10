@@ -1,0 +1,1 @@
+Summary: The dashboard provides a clear overview of financial performance, helping stakeholders make informed decisions, optimize operations, and drive business growth by visualizing profit trends, product performance, and market dynamics.
